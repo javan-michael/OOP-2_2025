@@ -13,7 +13,7 @@ public class Challenge4_Use_Of_Scanner {
         int age = scanner.nextInt();
 
         System.out.println("Hello " + name + "! You are " + age + " years old.");
-
+        
         scanner.close();
     }
 }
