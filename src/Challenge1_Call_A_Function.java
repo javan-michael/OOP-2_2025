@@ -1,4 +1,4 @@
-public class Call_A_Function {
+public class Challenge1_Call_A_Function {
     public static int calculateSum(int a, int b) {
         return a + b;
     }
