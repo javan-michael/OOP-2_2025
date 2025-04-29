@@ -1,4 +1,4 @@
-package Week_1;
+package Week_3;
 
 public class Challenge5_While_Loop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Week_1;
+package Week_3;
 
 public class Challenge3_Use_Of_If_Else {
     public static void main(String[] args) {

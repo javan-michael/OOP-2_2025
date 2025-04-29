@@ -1,4 +1,4 @@
-package Week_1;
+package Week_3;
 
 public class Challenge1_Call_A_Function {
     public static int calculateSum(int a, int b) {
